@@ -1,0 +1,15 @@
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.sourcelink.json
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/raynardbrown/Desktop/repos2/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
